@@ -1,0 +1,24 @@
+/** Progressbar class css*/
+.progressbar {
+    width: 100%;
+	position: relative;
+	background-color: #EEEEEE;
+}
+
+.proggress{
+	height: 8px;
+	width: 10px;
+	background-color: #3498db;
+	margin-top: 22px;
+}
+
+.percentCount {
+	float: right;
+	clear: both;
+	position: absolute;
+	bottom: 1px;
+	right: 14px;
+	color: #333;
+	font-size: 14px;
+	font-weight: 600;
+}
