@@ -1,0 +1,313 @@
+
+@media all and (max-width:1200px){
+	.social-top {
+		display: none;
+	}
+	.main-menu {
+		float: right;
+	}
+	.filter-area .mix {
+		width: 30%;
+	}
+}
+
+@media all and (min-width:992px){	
+	.main-menu ul {
+		display: flex !important;
+	}
+}
+
+@media all and (max-width:992px){
+	.main-menu ul{
+		
+	}
+	.my-services-pack {
+		padding-top: 36px;
+	}
+	.latest-menu button {
+		margin-right: 12px;
+	}
+	.filter-area .mix {
+		width: 48%;
+	}
+
+}
+
+@media all and (max-width:991px){
+	.header-area .logo a {
+		display: block;
+	}
+	.main-menu{
+		float:left;
+	}
+	.main-menu ul {
+		display: block;
+	}
+	.main-menu ul li {
+		display: block;
+		border-bottom: 1px dashed rgba(255,255,255,.5);
+	}
+	.counter-item {
+		padding-bottom: 40px;
+	}
+	.counter-content-area {
+		padding: 53px 0;
+	}
+	.pricing-plan-area {
+		margin-bottom: 28px;
+	}
+	.contact-form form input[type="submit"] {
+		float: left;
+	}
+	.contact-form {
+		text-align: left;
+		margin-left: -6px;
+		padding-top: 20px;
+	}
+	.contact-form form textarea {
+		width: 93%;
+	}
+	.contact-form form input {
+		width: 44%;
+	}
+	.contact-form form input[type="submit"] {
+		width: 35%;
+	}
+	.canvas-menu {
+		position: fixed;
+		background-color: #333;
+		width: 240px;
+		height: 100%;
+		left: -100%;
+		-webkit-transition: 1s;
+		transition: 1s;
+		z-index: 99;
+		top: 0;
+	}
+	.canvas{
+		left:0;
+		-webkit-transition: 1s;
+		transition:1s;
+	}
+	.nav-bars {
+	    display:block;
+	}
+	.main-menu ul li a {
+		text-transform: uppercase;
+	}
+	.main-menu {
+		float: none;
+	}
+	.main-menu ul li a {
+		padding: 5px 15px;
+		margin: 4px 0px;
+	}
+	.canvas-logo h3 a {
+		display: block;
+		color: #fff;
+		font-size: 25px;
+		font-weight: 700;
+		font-family: 'Poppins';
+		margin: 0px 0;
+		padding-top: 18px;
+		text-align: center;
+		padding-bottom: 17px;
+		border-bottom: 1px solid rgba(255,255,255,.6);
+	}
+
+}
+@media all and (min-width:768px){
+
+}
+
+@media all and (max-width:767px){
+	.about-me-text {
+		padding-top: 28px;
+	}
+	.about-me-text h2 {
+		font-size: 34px;
+	}
+	.about-me-text h3 {
+		font-size: 16px;
+		margin-top: 1px;
+		margin-bottom: 16px;
+	}
+	.about-me-text p {
+		font-size: 13px;
+		line-height: 1.6;
+	}
+	.about-me-text p span {
+		padding-top: 8px;
+	}
+	.work-experience h2 {
+		font-size: 28px;
+		padding-bottom: 0px;
+		padding-top: 26px;
+	}
+	.my-services-content h2 {
+		font-size: 34px;
+	}
+	.my-services-content h3 {
+		font-size: 16px;
+		margin-top: 2px;
+		margin-bottom: 12px;
+	}
+	.latest-menu button {
+		display: block;
+		margin-top: 8px;
+	}
+	.team-member-content h2 {
+		font-size: 28px;
+	}
+	.team-member-content h3 {
+		font-size: 16px;
+		margin-bottom: 26px;
+	}
+	.filtering-btn button {
+		padding: 4px 4px;
+		border-radius: 0px;
+		margin-right: 0px;
+	}
+
+}
+
+
+@media all and (max-width:650px){
+	.our-pricing-content h2 {
+		font-size: 34px;
+	}
+	.our-pricing-content h3 {
+		font-size: 16px;
+		margin-top: 4px;
+		margin-bottom: 28px;
+	}
+	.contact-me-content h2 {
+		font-size: 32px;
+	}
+	.contact-me-content h3 {
+		font-size: 16px;
+		margin-top: 2px;
+		margin-bottom: 20px;
+		
+	}
+	.contact-me-area {
+		padding-top: 60px;
+		padding-bottom: 60px;
+	}
+	.contact-form form input {
+		width: 96%;
+		padding: 10px 12px;
+		margin: 10px 10px;
+		
+	}
+	.contact-form form textarea {
+		width: 96%;
+		padding: 10px 12px;	
+		margin: 6px 10px;
+	}
+	.contact-form form input[type="submit"] {
+		width: 50%;
+	}
+	.contact-me-and .contect-content {
+		padding-top: 12px;
+	}
+	.contact-me-and .social-bottom {
+		padding-top: 20px;
+	}
+
+}
+
+
+@media all and (max-width:575px){
+	.counter-icon {
+		display: flex;
+	}
+	.counter-item {
+		display: flex;
+		justify-content: flex-start;
+	}
+	.services-single-item {
+		width: 100%;
+		padding-bottom: 20px;
+	}
+	.p-boot {
+ 	padding-left: 15px; 
+ 	padding-right: 15px; 
+	}
+	.have-project-content h2 {
+		font-size: 28px;
+	}
+	.work-harding-content h2 {
+		font-size: 28px;
+	}
+	.work-harding-content h3 {
+		font-size: 16px;
+		margin-top: 2px;
+		margin-bottom: 22px;
+	}
+	.filter-area .mix {
+		width: 100%;
+	}
+	.people-saying-content h2 {
+		font-size: 32px;
+	}
+	.people-saying-content h3 {
+		font-size: 16px;
+		margin-top: 2px;
+		margin-bottom: 26px;
+	}
+	.contact-me-content-popup h2 {
+		font-size: 16px;
+	}
+	.contact-me-content-popup img {
+		width: 148px;
+		height: 146px;
+	}
+	.contact-me-content-popup h3 {
+		padding-bottom: 12px;
+		font-size: 14px;
+	}
+	.caption-header h5 {
+		font-size: 16px;
+		padding-bottom: 14px;
+	}
+	.caption-header p {
+		font-size: 16px;
+	}
+	.header-content-area {
+		padding-top: 100px;
+		padding-bottom: 60px;
+		background: url('../images/bg/9.jpg');
+		background-size: 100% 100%;
+	}
+
+}
+
+
+@media all and (max-width:450px){
+	.about-me-pic img {
+		height: 312px;
+	}
+	.about-btn a {
+		padding: 6px 30px;
+		font-size: 14px;
+	}
+	.my-skill-area {
+		padding-top: 40px;
+	}
+	.my-skill-heading h2 {
+		font-size: 28px;
+	}
+	.single-top h2 {
+		font-size: 16px;
+	}
+	.contect-content a {
+		font-size: 12px;
+
+	}
+	.footer-contant-area h3 {
+		font-size: 16px;
+	}
+
+
+}
