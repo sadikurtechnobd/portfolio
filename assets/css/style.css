@@ -327,9 +327,9 @@ p{
     color: #333333;
 }
 .about-me-pic {
-    overflow: hidden;
+    overflow: hidden !important;
     cursor: pointer;
-    height: 440px;
+    height: 425px !important;
 }
 .about-me-pic img {
 	width: 100%;
