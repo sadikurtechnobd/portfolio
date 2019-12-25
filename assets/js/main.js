@@ -1,8 +1,3 @@
-// preloader
-$(window).load(function(){
-	$('#preloader').fadeOut('slow',function(){$(this).remove();});
-});
-
 $(document).ready(function(){
 
 	// Stk
