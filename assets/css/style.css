@@ -1159,18 +1159,6 @@ p{
     color: #ffba00;
 }
 /*End Footer Area*/
-/*Start Preloader Area*/
-#preloader {
-    position:fixed;
-    left:0;
-    top:0;
-    z-index:99999999999;
-    width:100%;
-    height:100%;
-    overflow:visible;
-    background: #fff url('../images/preloader/loader.gif') no-repeat center center;
-}
-/*End Preloader Area*/
 .hire {
     background: linear-gradient(rgba(5,0,0,0.9),rgba(5,0,0,0.9)),#1b1c21;
 }
