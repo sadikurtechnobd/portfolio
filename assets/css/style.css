@@ -394,6 +394,15 @@ p{
     border-bottom: 1px dashed #333;
     padding-bottom: 16px;
 }
+
+/* Hire Me and Contact Me Button Focus */
+.button-hire-me.hvr-sweep-to-top:focus{
+    color: #333 !important;
+}
+.button-contact-me.hvr-sweep-to-top:focus{
+    color: #fff !important;
+}
+
 /*End About Me Area*/
 /*Start Skills Area*/
 .my-skill-area {
