@@ -29,7 +29,7 @@ $(document).ready(function(){
 		loop:true,
 		autoplayTimeout:3000,
 		items:3,
-		autoplay:false,
+		autoplay:true,
 		responsive :{
 			0:{
 				items:1
