@@ -117,7 +117,7 @@
                 <div class="row">
                 	 <div class="col-xl-5 col-lg-5 col-md-5">
                     	<div class="about-me-pic hovereffect">
-                    		<img src="assets/images/about/profile_poto_02.JPEG" alt="">
+                    		<img src="assets/images/about/p_3.png" alt="">
 							<div class="overlay">
 								<h2><a href="tel:+8801785276098">Call</a></h2>
 								<p class="icon-links">
@@ -976,27 +976,6 @@
 										</div>
 										<h3>Sushama Roy Bristy</h3>
 										<h4>Graphic Designer</h4>
-									</div>
-								</div>
-							</div>
-							<div class="row">
-								<div class="col-xl-12">
-									<div class="team-member-item">
-										<div class="team-images">
-											<img src="assets/images/team/11.png" alt="">
-											<div class="team-overlay">
-												<div class="team-social">
-													<ul>
-				                            			<li><a href="#"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
-				                            			<li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-				                            			<li><a href="#"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
-				                            			<li><a href="#"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-				                            		</ul>
-												</div>
-											</div>		
-										</div>
-										<h3>Efty Hasan Adita</h3>
-										<h4>Painter</h4>
 									</div>
 								</div>
 							</div>
