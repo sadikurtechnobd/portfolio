@@ -14,5 +14,4 @@ $msg .= "Message :".$message."\n";
    
 $mail = mail($to,$sub,$msg);
 header('location:index.html');
-
 ?>
