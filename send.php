@@ -13,6 +13,5 @@ $msg .= "Email : ".$email."\n";
 $msg .= "Message :".$message."\n";   
    
 $mail = mail($to,$sub,$msg);
-header('location:index.php');
-
+header('location:index.html');
 ?>
