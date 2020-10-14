@@ -178,7 +178,7 @@ p{
     color:#3498db !important;
 }
 .header-content-area {
-	background: url('../images/bg/10.png');
+	background: url('../images/bg/12.jpg');
 	background-attachment: fixed;
 	background-size: cover;
 	position: relative;
@@ -193,7 +193,7 @@ p{
     position: absolute;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.42);
+    background: rgba(0, 0, 0, 0.52);
     top: 0;
     z-index: -1;
 }
