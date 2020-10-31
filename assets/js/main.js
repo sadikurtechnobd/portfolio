@@ -87,7 +87,7 @@ $(document).ready(function(){
 
 		
 	// Magnific PopUp
-	$('.item-overlay-icon a').magnificPopup({
+	$('.work-gallery-popup').magnificPopup({
 	  type: 'image',
 	  gallery:{
 	    enabled:true
