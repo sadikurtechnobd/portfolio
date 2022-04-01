@@ -178,15 +178,17 @@ p{
     color:#3498db !important;
 }
 .header-content-area {
-	background: url('../images/bg/23.png');
-	background-attachment: fixed;
-	background-size: cover;
-	position: relative;
-	z-index: 1;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	height: 100vh;
+    background: url(../images/bg/27.jpeg);
+    background-attachment: fixed;
+    background-size: 100% auto;
+    position: relative;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: right;
 }
 .header-content-area::after {
     content: "";
