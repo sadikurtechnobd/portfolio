@@ -173,9 +173,11 @@ p{
 }
 .main-menu ul li:hover a{
    color:#3498db !important;
+   font-weight: 500;
 }
 .main-menu .active{
     color:#3498db !important;
+    font-weight: 500;
 }
 .header-content-area {
     background: url(../images/bg/27.jpeg);
