@@ -29,6 +29,7 @@ body{
     font-style: normal;
 }
 @font-face {
+    font-family: 'Poppins';
     src: url('../fonts/Poppins.woff2') format('woff2'),
         url('../fonts/Poppins.woff') format('woff');
     font-weight: bold;
